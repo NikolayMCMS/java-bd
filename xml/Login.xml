@@ -1,0 +1,8 @@
+<login>
+    <label x="50" y="50" width="100" height="30" fontsize="20">Username:</label>
+    <input id="usernamelog" x="200" y="50" width="200" height="30" name="usernamelog"/>
+    <label id="passwordlog" x="50" y="100" width="100" height="30" fontsize="20" name="passwordlog">Password:</label>
+    <input x="200" y="100" width="200" height="30" name="passwordlog"/>
+    <button id="login" x="200" y="150" width="200" height="30">Login</button>
+    <button id="registerButton" x="200" y="200" width="200" height="30">Switch to Register</button>
+</login>
